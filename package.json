@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.6.0",
+    "log": "^6.3.1",
+    "midjourney-client": "github:oelin/midjourney-client"
+  },
+  "name": "midjourney-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "commonjs",
+  "keywords": [],
+  "author": "sandarutharuneth",
+  "license": "ISC",
+  "description": "opensource discord midjourney bot for everyone without any paywalls"
+}

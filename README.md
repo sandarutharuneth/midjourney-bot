@@ -44,7 +44,7 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 - Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)
 
 ## Credits
-- @oelin for the [MidJourney Client](https://github.com/oelin/midjourney-client)
+- [@oelin](https://github.com/oelin) for the [MidJourney Client](https://github.com/oelin/midjourney-client)
 
 If you enjoy our work, please consider giving a start to the repository ⭐️
 

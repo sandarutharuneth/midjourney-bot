@@ -43,6 +43,6 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
 - Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)
 
-### If you enjoy our work, please consider giving start to the repository ⭐️
+If you enjoy our work, please consider giving start to the repository ⭐️
 
 <h6 align="center">©️ Project Razer</h6>

@@ -1,6 +1,6 @@
 # Discord Midjourney Bot
 
-A opensource Midjourney Discord bot for all AI lovers. No more paywalls to AI. Enjoy your AI Art freedom with us
+A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. Enjoy your AI Art freedom with us
 
 #
 <a href="https://imgur.com/Bmf1J3P"><img src="https://i.imgur.com/Bmf1J3P.png" title="source: imgur.com" /></a>

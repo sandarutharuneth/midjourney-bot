@@ -47,5 +47,6 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 - [@oelin](https://github.com/oelin) for the [MidJourney Client](https://github.com/oelin/midjourney-client)
 
 If you enjoy our work, please consider giving a start to the repository ⭐️
+#
 
 <h6 align="center">©️ Project Razer</h6>

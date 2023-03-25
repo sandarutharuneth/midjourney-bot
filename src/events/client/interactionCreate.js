@@ -45,3 +45,7 @@ client.on("interactionCreate", async interaction => {
         console.log(err);
     }
 })
+
+// ©️ Copyright Project Razer LLC 2023 All Rights Reserved.
+// Credits: @sandarutharuneth, @oelin
+// License: MIT

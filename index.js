@@ -49,3 +49,8 @@ client.login(config.TOKEN)
 process.on("unhandledRejection", async (err) => {
     console.log(`[ANTI - CRUSH] Unhandled Rejection : ${err}`.red.bold)
 })
+
+
+// ©️ Copyright Project Razer LLC 2023 All Rights Reserved.
+// Credits: @sandarutharuneth, @oelin
+// License: MIT

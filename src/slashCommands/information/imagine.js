@@ -3,11 +3,11 @@ const { SlashCommandBuilder, EmbedBuilder, ApplicationCommandOptionType, ActionR
 
 module.exports = {
     name: "imagine",
-    description: "Imagine a user",
+    description: "Generate art in your dreams!",
     options: [
         {
             name: "prompt",
-            description: "The prompt to imagine",
+            description: "Your prompt to generate the art",
             type: ApplicationCommandOptionType.String,
             required: true
         }

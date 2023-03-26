@@ -2,7 +2,7 @@ const { SlashCommandBuilder, EmbedBuilder, ApplicationCommandOptionType, ActionR
 
 
 module.exports = {
-    name: "mid",
+    name: "imagine",
     description: "Imagine a user",
     options: [
         {

@@ -1,60 +1,52 @@
-const { SlashCommandBuilder, EmbedBuilder, ApplicationCommandOptionType, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, ApplicationCommandOptionType, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require("discord.js")
+
 
 module.exports = {
-    name: 'imagine',
-    description: 'Generate art in your dreams!',
+    name: "mid",
+    description: "Imagine a user",
     options: [
         {
-            name: 'prompt',
+            name: "prompt",
+            description: "The prompt to imagine",
             type: ApplicationCommandOptionType.String,
-            description: "Your prompt to generate the art",
-            required: true,
-        },
+            required: true
+        }
     ],
-    run: async (client, interaction) => {
+    run: async (client, interaction, args) => {
+        await interaction.deferReply()
+        const prompt = interaction.options.getString("prompt")
 
-        await interaction.deferReply();
+        const replicate = await import("node-replicate")
 
-        const { default: midjourney } = await import('midjourney-client')
-        const prompt = interaction.options.getString('prompt');
-
-        midjourney(prompt).then(response => {
-                        if (response.length < 1) {
-                                interaction.editReply('Unabled to generate images.')
-                        }
-
-            const imageURLs = response.join('\n')
-            
-            const row = new ActionRowBuilder()
+        const prediction = await replicate.default.model(
+                "prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb",
+            )
+            .predict({
+                prompt: prompt,
+            })
+        
+        const row = new ActionRowBuilder()
 			.addComponents(
                 new ButtonBuilder()
                 .setLabel(`Download`)
                 .setStyle(ButtonStyle.Link)
-                .setURL(`${imageURLs}`)
+                .setURL(`${prediction.output[0]}`)
                 .setEmoji('1083007659457912852'),
                new ButtonBuilder()
                 .setLabel(`Support Us`)
                 .setStyle(ButtonStyle.Link)
                 .setURL('https://paypal.me/officialrazer')
                 .setEmoji('1083016028369453199'))
-
-            const embed = new EmbedBuilder()
-                        .setTitle("**Your Prompt:**")
-                        .setDescription(`**${prompt}**`)
-                        .setImage(`${imageURLs}`)
-                        .setColor('#2f3136')
-                        .setFooter({
-                            text: `Requested by: ${interaction.user.username} | ©️ Project Razer `,
+            
+        const embed = new EmbedBuilder()
+        	.setTitle("**Your Prompt:**")
+            .setDescription(`**${prompt}**`)
+            .setImage(prediction.output[0])
+        	.setColor('#2f3136')
+        	.setFooter({ text: `Requested by: ${interaction.user.username} | ©️ IVON `,
                             iconURL: interaction.user.displayAvatarURL({ dynamic: true }),
                           })
 
-              interaction.editReply({ embeds: [embed], components: [row] });            
-        })
-       
+        await interaction.editReply({ embeds: [embed], components: [row] })
     }
 }
-
-
-// ©️ Copyright Project Razer LLC 2023 All Rights Reserved.
-// Credits: @sandarutharuneth, @oelin
-// License: MIT

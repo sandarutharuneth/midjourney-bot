@@ -4,7 +4,7 @@
     "common-tags": "^1.8.2",
     "discord.js": "^14.6.0",
     "log": "^6.3.1",
-    "midjourney-client": "github:oelin/midjourney-client"
+    "midjourney-client": "^1.0.5"
   },
   "name": "midjourney-bot",
   "version": "1.0.0",

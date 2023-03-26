@@ -42,16 +42,16 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 ## Model Swapping
 Now you can change the AI model to whatever you want from [Replicate](https://replicate.com/explore)
 
-# Step 1
+### Step 1
 Go to [Replicate](https://replicate.com/explore) and search your desired model
 
-# Step 2
+### Step 2
 Copy the model link. Should look like this:
 ```js
 "prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb"
 ```
 
-# Step 3
+### Step 3
 Paste your model link on `imagine.js`
 ```js
 const prediction = await replicate.default.model(
@@ -59,7 +59,7 @@ const prediction = await replicate.default.model(
             )
 ```
 
-# Step 4
+### Step 4
 Run the bot and enjoy!
 
 ### PS:

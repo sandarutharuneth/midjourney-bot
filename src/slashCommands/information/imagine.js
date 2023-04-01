@@ -43,7 +43,7 @@ module.exports = {
             .setDescription(`**${prompt}**`)
             .setImage(prediction.output[0])
         	.setColor('#2f3136')
-        	.setFooter({ text: `Requested by: ${interaction.user.username} | ©️ IVON `,
+        	.setFooter({ text: `Requested by: ${interaction.user.username} | ©️ Project Razer `,
                             iconURL: interaction.user.displayAvatarURL({ dynamic: true }),
                           })
 

@@ -6,12 +6,12 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 <a href="https://imgur.com/Bmf1J3P"><img src="https://i.imgur.com/Bmf1J3P.png" title="source: imgur.com" /></a>
 #
 
-## Invite Openjourney Bot => <a href="https://projectrazer.com/openjourney">Click Here</a>
-<a href="https://projectrazer.com/openjourney"><img src="https://i.imgur.com/lceHDxt.png" title="openjourney" /></a>
+## Invite Openjourney Bot => <a href="https://projectrazer.com/openjourney" target="_blank">Click Here</a>
+<a href="https://projectrazer.com/openjourney" target="_blank"><img src="https://i.imgur.com/lceHDxt.png" title="openjourney" /></a>
 #
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://paypal.me/officialrazer"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
+<p><a href="https://paypal.me/officialrazer" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
 </p>
 
 #

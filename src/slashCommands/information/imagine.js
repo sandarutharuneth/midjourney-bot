@@ -24,6 +24,8 @@ module.exports = {
             .predict({
                 prompt: prompt,
             })
+	
+	if (interaction.channel.nsfw === true) {
         
         const row = new ActionRowBuilder()
 			.addComponents(
@@ -48,5 +50,15 @@ module.exports = {
                           })
 
         await interaction.editReply({ embeds: [embed], components: [row] })
+	    
+	    }else {
+
+            const nsfw = new EmbedBuilder()
+	    	.setTitle('Warning')
+            	.setDescription('\`\`\`fix\n[ Must be a Age Restricted channel to function ]\n\`\`\`')
+        	.setColor('#2f3136')
+
+          await interaction.editReply({ embeds: [nsfw] })
+           }
     }
 }

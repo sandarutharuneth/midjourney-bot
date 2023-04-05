@@ -7,7 +7,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Invite Openjourney Bot => <a href="https://projectrazer.com/openjourney" target="_blank">Click Here</a>
-<a href="https://projectrazer.com/openjourney" target="_blank"><img src="https://i.imgur.com/lceHDxt.png" title="openjourney" /></a>
+<a href="https://projectrazer.com/openjourney" target="_blank"><img src="https://i.imgur.com/fCFHO4h.png" title="openjourney" /></a>
 #
 
 <h3 align="left">Support Me:</h3>

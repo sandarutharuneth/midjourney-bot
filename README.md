@@ -45,7 +45,7 @@ Start the bot
 node .
 ```
 
-## Usage
+## Run
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine midjourney style anime landscape, genshin impact style`
 
@@ -58,5 +58,13 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 
 If you enjoy our work, please consider giving a start to the repository ⭐️
 #
+
+## Usage
+### Personal Usage
+You can use our code without any credits for your personal project
+
+### Publick Usage
+You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@oelin](https://github.com/oelin)
+Or we will issue a DMCA for the takedown. Please respect the code authours keep the credits.
 
 <h6 align="center">©️ Project Razer</h6>

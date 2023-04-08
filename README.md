@@ -63,7 +63,7 @@ If you enjoy our work, please consider giving a start to the repository ⭐️
 ### Personal Usage
 You can use our code without any credits for your personal project
 
-### Publick Usage
+### Public Usage
 You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@oelin](https://github.com/oelin)
 Or we will issue a DMCA for the takedown. Please respect the code authours keep the credits.
 

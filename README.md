@@ -49,29 +49,6 @@ node .
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine midjourney style anime landscape, genshin impact style`
 
-## Model Swapping
-Now you can change the AI model to whatever you want from [Replicate](https://replicate.com/explore)
-
-### Step 1
-Go to [Replicate](https://replicate.com/explore) and search your desired model
-
-### Step 2
-Copy the model link. Should look like this:
-```js
-"prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb"
-```
-
-### Step 3
-Paste your model link on `imagine.js`
-```js
-const prediction = await replicate.default.model(
-                "PASTE YOUR MODEL LINK HERE",
-            )
-```
-
-### Step 4
-Run the bot and enjoy!
-
 ### PS:
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
 - Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)

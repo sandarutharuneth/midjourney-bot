@@ -65,6 +65,6 @@ You can use our code without any credits for your personal project
 
 ### Public Usage
 You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@oelin](https://github.com/oelin)
-Or we will issue a DMCA for the takedown. Please respect the code authours and keep the credits.
+Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
 <h6 align="center">©️ Project Razer</h6>

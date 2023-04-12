@@ -17,7 +17,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Support Server
-<a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a>
+<a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a><br>
+⚠️ <b>We do not provide code support in our server due to multiple reasons. Edit at your own risk!</b>
 
 ## Installation
 Clone the repository
@@ -48,6 +49,9 @@ node .
 ## Run
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine midjourney style anime landscape, genshin impact style`
+
+## Common Errors
+Usually after using the bot for docents of times, you'll get an error most likely saying `model` not found or a `prediction` error. This is because the free `API` that you're using on your app has been limited for a while. We don't know what is the exact  waiting time but you can try changing the `IP` address of the bot host.
 
 ### PS:
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results

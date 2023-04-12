@@ -16,7 +16,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 
 #
 
-## Support Server
+## Discord Server
 <a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a><br>
 ⚠️ <b>We do not provide code support in our server due to multiple reasons. Edit at your own risk!</b>
 

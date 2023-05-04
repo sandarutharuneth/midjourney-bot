@@ -15,15 +15,18 @@ module.exports = {
     run: async (client, interaction, args) => {
         await interaction.deferReply()
         const prompt = interaction.options.getString("prompt")
+        const Replicate = (await import("replicate")).default
 
-        const replicate = await import("node-replicate")
+        const replicate = new Replicate({
+            auth: "add your replicate token here",
+        });
 
-        const prediction = await replicate.default.model(
-                "prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb",
-            )
-            .predict({
-                prompt: prompt,
-            })
+        const output = await
+        replicate.run("prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb", {
+            input: {
+                prompt: prompt
+            }
+        })
 	
 	if (interaction.channel.nsfw === true) {
         
@@ -32,7 +35,7 @@ module.exports = {
                 new ButtonBuilder()
                 .setLabel(`Download`)
                 .setStyle(ButtonStyle.Link)
-                .setURL(`${prediction.output[0]}`)
+                .setURL(output)
                 .setEmoji('1083007659457912852'),
                new ButtonBuilder()
                 .setLabel(`Support Us`)
@@ -43,7 +46,7 @@ module.exports = {
         const embed = new EmbedBuilder()
         	.setTitle("**Your Prompt:**")
             .setDescription(`**${prompt}**`)
-            .setImage(prediction.output[0])
+            .setImage(output)
         	.setColor('#2f3136')
         	.setFooter({ text: `Requested by: ${interaction.user.username} | ©️ Project Razer `,
                             iconURL: interaction.user.displayAvatarURL({ dynamic: true }),

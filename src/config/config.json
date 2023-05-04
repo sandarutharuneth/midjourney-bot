@@ -1,5 +1,6 @@
 {
     "TOKEN": "YOUR TOKEN",
+    "API": "YOUR REPLICATE API KEY",
     "CLIENTID": "YOUR BOT ID",
     "OWNER": ["YOUR ID"]
 }

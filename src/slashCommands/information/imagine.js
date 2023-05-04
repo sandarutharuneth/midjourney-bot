@@ -1,4 +1,5 @@
 const { SlashCommandBuilder, EmbedBuilder, ApplicationCommandOptionType, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require("discord.js")
+const config = require("../../config/config.json")
 
 
 module.exports = {
@@ -18,7 +19,7 @@ module.exports = {
         const Replicate = (await import("replicate")).default
 
         const replicate = new Replicate({
-            auth: "add your replicate token here",
+            auth: config.API,
         });
 
         const output = await

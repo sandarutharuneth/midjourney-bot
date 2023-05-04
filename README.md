@@ -31,10 +31,16 @@ Fill your Token and other dependencies at [config.json](https://github.com/sanda
 ```json
 {
     "TOKEN": "YOUR TOKEN",
+    "API": "YOUR REPLICATE API KEY",
     "CLIENTID": "YOUR BOT ID",
     "OWNER": ["YOUR ID"]
 }
 ```
+
+Get your Replicate API
+- Visit [Replicate](https://replicate.com) and create an account
+- Get API token [API Section](https://replicate.com/account/api-tokens)
+- Paste the Key on `config.json`
 
 Install dependencies
 ```sh

@@ -63,9 +63,6 @@ Usually after using the bot for docents of times, you'll get an error most likel
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
 - Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)
 
-## Credits
-- [@oelin](https://github.com/oelin) for the [MidJourney Client](https://github.com/oelin/midjourney-client)
-
 If you enjoy our work, please consider giving a start to the repository ⭐️
 #
 

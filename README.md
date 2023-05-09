@@ -30,7 +30,7 @@ git clone https://github.com/sandarutharuneth/midjourney-bot
 Fill your Token and other dependencies at [config.json](https://github.com/sandarutharuneth/midjourney-bot/blob/master/src/config/config.json)
 ```json
 {
-    "TOKEN": "YOUR TOKEN",
+    "TOKEN": "BOT TOKEN",
     "API": "YOUR REPLICATE API KEY",
     "CLIENTID": "YOUR BOT ID",
     "OWNER": ["YOUR ID"]

@@ -21,7 +21,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 ⚠️ <b>We do not provide code support in our server due to multiple reasons. Edit at your own risk!</b>
 
 ## Installation
-⚠️ FIRST Make sure you have `Node v18+` or higher version to run the bot ⚠️
+⚠️ First Make sure you have `Node v18+` or higher version to run the bot ⚠️
 
 Clone the repository
 
@@ -57,6 +57,9 @@ node .
 ## Run
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine midjourney style anime landscape, genshin impact style`
+
+## Common Erros
+> IF you have a console error saying about any payment stuff, It means your free usage limit already have been ended and you'll either have to wait till next month get free uses or you can purchase a plan from Replicate to keep generating.
 
 ### PS:
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results

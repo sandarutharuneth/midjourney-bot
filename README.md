@@ -60,6 +60,7 @@ Ex: `/imagine midjourney style anime landscape, genshin impact style`
 
 ## Common Erros
 > IF you have a console error saying about any payment stuff, It means your free usage limit already have been ended and you'll either have to wait till next month get free uses or you can purchase a plan from Replicate to keep generating.
+> If you got the output as a black image, It usually means that you used inappropriate prompt to generate an image. Replicate does not allow such a behaviour and you might get banned from the platform. Use prompt wisely!
 
 ### PS:
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
@@ -73,7 +74,7 @@ If you enjoy our work, please consider giving a start to the repository ⭐️
 You can use our code without any credits for your personal project
 
 ### Public Usage
-You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@oelin](https://github.com/oelin)
+> You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@oelin](https://github.com/oelin)
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
 <h6 align="center">©️ Project Razer</h6>

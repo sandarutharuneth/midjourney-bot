@@ -58,9 +58,6 @@ node .
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine midjourney style anime landscape, genshin impact style`
 
-## Common Errors
-Usually after using the bot for docents of times, you'll get an error most likely saying `model` not found or a `prediction` error. This is because the free `API` that you're using on your app has been limited for a while. We don't know what is the exact  waiting time but you can try changing the `IP` address of the bot host.
-
 ### PS:
 - Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
 - Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)

@@ -21,6 +21,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 ⚠️ <b>We do not provide code support in our server due to multiple reasons. Edit at your own risk!</b>
 
 ## Installation
+⚠️ FIRST Make sure you have `Node v18+` or higher version to run the bot ⚠️
+
 Clone the repository
 
 ```sh

@@ -23,7 +23,7 @@ module.exports = {
             auth: config.API,
         });
 
-        const output = await replicate.run("prompthero/openjourney:9936c2001faa2194a261c01381f90e65261879985476014a0a37a334593a05eb", {
+        const output = await replicate.run("m1guelpf/safe-latent-diffusion:2d345271e84fecbe94f8d5ed19dc4a7af509a6b8c0c4a1d7f61c455f17cbf0c8", {
             input: {
                 prompt: prompt
             }

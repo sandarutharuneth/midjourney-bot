@@ -23,7 +23,7 @@ module.exports = {
             auth: config.API,
         });
 
-        const output = await replicate.run("m1guelpf/safe-latent-diffusion:2d345271e84fecbe94f8d5ed19dc4a7af509a6b8c0c4a1d7f61c455f17cbf0c8", {
+        const output = await replicate.run("stability-ai/stable-diffusion:db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c49861f96d1e5bf", {
             input: {
                 prompt: prompt
             }

@@ -13,7 +13,15 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 ## Trusted & Enjoyed By 2000+ Servers
 <a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/jhuIZos.png" title="openjourney" /></a>
 #
-<h3 align="left">Support Me:</h3>
+
+## Like To Support?
+> We are actively looking for **Partnerships/Investors** to our Openjourney Project. If you are willing to be a part of this amazing journey, please contact us via the contact methods below.
+
+- Contact us via our official Mail: **support@openjourneybot.com**
+- Contact us via our Discord Server: <a href="https://discord.gg/cqSEc9FNrE">**Project Razer**</a>
+
+
+<h3 align="left">Donate Us:</h3>
 <p><a href="https://paypal.me/officialrazer" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
 </p>
 

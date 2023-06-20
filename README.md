@@ -56,7 +56,7 @@ Get your Replicate API
 - Paste the Key on `config.json`
 
 Allow all Intents
-- Visit Disocrd devloper portal and turn on all the intents
+- Visit Discord devloper portal and turn on all the intents
 
 Install dependencies
 ```sh
@@ -70,15 +70,11 @@ node .
 
 ## Run
 On your discord server use slash command `/imagine` to get results
-Ex: `/imagine midjourney style anime landscape, genshin impact style`
+Ex: `/imagine: anime landscape, genshin impact style`
 
 ## Common Erros
 > IF you have a console error saying about any payment stuff, It means your free usage limit already have been ended and you'll either have to wait till next month get free uses or you can purchase a plan from Replicate to keep generating.
 > If you got the output as a black image, It usually means that you used inappropriate prompt to generate an image. Replicate does not allow such a behaviour and you might get banned from the platform. Use prompt wisely!
-
-### PS:
-- Add `midjourney style` or `mdjrny-v4` key word somewhere on your promt for better results
-- Full beginners guide at my blog: [click here](https://blog.ivongiveaways.com/2023/03/imagine-command-tutorials.html)
 
 If you enjoy our work, please consider giving a start to the repository ⭐️
 #

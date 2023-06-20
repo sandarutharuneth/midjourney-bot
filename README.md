@@ -55,6 +55,9 @@ Get your Replicate API
 - Get API token [API Section](https://replicate.com/account/api-tokens)
 - Paste the Key on `config.json`
 
+Allow all Intents
+- Visit Disocrd devloper portal and turn on all the intents
+
 Install dependencies
 ```sh
 npm i

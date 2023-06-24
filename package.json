@@ -1,25 +1,28 @@
 {
+  "name": "midjourney-bot",
+  "version": "1.0.5",
+  "description": "An opensource Discord AI bot made to generate images using Replicate API for free",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandarutharuneth/midjourney-bot.git"
+  },
+  "keywords": [],
+  "author": "sandarutharuneth",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/sandarutharuneth/midjourney-bot/issues"
+  },
+  "homepage": "https://github.com/sandarutharuneth/midjourney-bot#readme",
   "dependencies": {
     "colors": "^1.4.0",
     "common-tags": "^1.8.2",
     "discord.js": "^14.6.0",
     "log": "^6.3.1",
     "replicate": "^0.11.1"
-  },
-  "name": "midjourney-bot",
-  "version": "1.0.2",
-  "main": "index.js",
-  "scripts": {
-    "start": "node .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "type": "commonjs",
-  "keywords": [],
-  "author": "sandarutharuneth",
-  "license": "BSD-3-Clause",
-  "description": "An opensource Discord AI bot made to generate images using Replicate API for free",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sandarutharuneth/midjourney-bot"
   }
 }

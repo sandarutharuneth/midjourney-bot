@@ -7,11 +7,9 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Invite Openjourney Bot => <a href="https://openjourneybot.com" target="_blank">Click Here</a>
-<a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/lN76M6r.png" title="openjourney" /></a>
-#
+> **Trusted and enjoyed by more than 2000+ servers**
 
-## Trusted & Enjoyed By 2000+ Servers
-<a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/jhuIZos.png" title="openjourney" /></a>
+<a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/lN76M6r.png" title="openjourney" /></a>
 #
 
 ## Like To Support?
@@ -34,13 +32,19 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 ## Installation
 ⚠️ First Make sure you have `Node v18+` or higher version to run the bot ⚠️
 
-Clone the repository
+`1` Clone the repository using NPM or GitHub
 
+### NPM
+```sh
+npm install midjourney-bot
+```
+
+### GitHub
 ```sh
 git clone https://github.com/sandarutharuneth/midjourney-bot
 ```
 
-Fill your Token and other dependencies at [config.json](https://github.com/sandarutharuneth/midjourney-bot/blob/master/src/config/config.json)
+`2` Fill your Token and other dependencies at [config.json](https://github.com/sandarutharuneth/midjourney-bot/blob/master/src/config/config.json)
 ```json
 {
     "TOKEN": "BOT TOKEN",
@@ -50,20 +54,20 @@ Fill your Token and other dependencies at [config.json](https://github.com/sanda
 }
 ```
 
-Get your Replicate API
+`3` Get your Replicate API
 - Visit [Replicate](https://replicate.com) and create an account
 - Get API token [API Section](https://replicate.com/account/api-tokens)
 - Paste the Key on `config.json`
 
-Allow all Intents
+`4` Allow all Intents
 - Visit Discord devloper portal and turn on all the intents
 
-Install dependencies
+`5` Install dependencies
 ```sh
 npm i
 ```
 
-Start the bot
+`6` Start the bot
 ```sh
 node .
 ```

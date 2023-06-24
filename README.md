@@ -36,7 +36,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 
 ### NPM
 ```sh
-npm install midjourney-bot
+npm i midjourney-bot
 ```
 
 ### GitHub

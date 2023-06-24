@@ -7,7 +7,7 @@
     "replicate": "^0.11.1"
   },
   "name": "midjourney-bot",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "start": "node .",
@@ -16,6 +16,10 @@
   "type": "commonjs",
   "keywords": [],
   "author": "sandarutharuneth",
-  "license": "MIT",
-  "description": "opensource discord midjourney bot for everyone without any paywalls"
+  "license": "BSD-3-Clause",
+  "description": "An opensource Discord AI bot made to generate images using Replicate API for free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandarutharuneth/midjourney-bot"
+  }
 }

@@ -13,7 +13,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Our Partners
-> Here are our current partner on the Openjourney bot.
+> Here are our current partners on the Openjourney bot.
 
 - [**Prodia**](https://prodia.com) - All the image generating resources
 - [**Replicate**](https://replicate.com) - Upscaling and Face restoration algorithms

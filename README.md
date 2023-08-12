@@ -27,7 +27,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 
 
 <h3 align="left">Donate Us:</h3>
-<p><a href="https://paypal.me/officialrazer" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
+<p><a href="https://www.paypal.com/donate?campaign_id=RPSWK4U9NA44N" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
 </p>
 
 #

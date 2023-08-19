@@ -29,6 +29,12 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 <h3 align="left">Donate Us:</h3>
 <p><a href="https://www.paypal.com/donate?campaign_id=RPSWK4U9NA44N" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
 </p>
+#
+
+## Are You a Blogger?
+> We are more than happy for you to try and review our product on the internet. Contact our team for more information. We would be pleased to provide you further details about our product.
+
+- Mail us: **press@openjourneybot.com**
 
 #
 

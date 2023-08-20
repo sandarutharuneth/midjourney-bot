@@ -33,6 +33,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 - Llama 2 language model access ( From META Inc )
 - Customizable canvas sizes ( Square, Portrait, Landscape )
 
+# [INVITE NOW ⭐️](https://openjourneybot.com)
+
 #
 
 ## Like To Support?

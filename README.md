@@ -17,6 +17,22 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 
 - [**Prodia**](https://prodia.com) - All the image generating resources
 - [**Replicate**](https://replicate.com) - Upscaling and Face restoration algorithms
+  
+#
+
+## Cutting Edge Features
+> These are the features that makes you wanna use our bot. Check it out!
+
+- Text to Image
+- Image to Text
+- Image to Image
+- Remove Background
+- Face Restoration ( gfpgan )
+- Upscaling up to 4X  ( swinir )
+- Fully advance customizable image generations
+- Llama 2 language model access ( From META Inc )
+- Customizable canvas sizes ( Square, Portrait, Landscape )
+
 #
 
 ## Like To Support?

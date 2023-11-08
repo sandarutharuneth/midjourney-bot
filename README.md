@@ -26,11 +26,15 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 - Text to Image
 - Image to Text
 - Image to Image
+- Controlnet access
+- Swap faces easily
 - Remove Background
+- SDXL model access
+- Blurred image fix ( nafnet )
 - Face Restoration ( gfpgan )
-- Upscaling up to 4X  ( swinir )
+- Upscaling up to 4K  ( swinir )
 - Fully advance customizable image generations
-- Llama 2 language model access ( From META Inc )
+- Llama 2 70B language model access ( From META Inc )
 - Customizable canvas sizes ( Square, Portrait, Landscape )
 
 # [INVITE NOW ⭐️](https://openjourneybot.com)

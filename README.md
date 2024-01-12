@@ -10,6 +10,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 > **Trusted and enjoyed by more than 7000+ servers**
 
 <a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/lN76M6r.png" title="openjourney" /></a>
+## 2023 summary
+<a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/5PtkX21.png" title="openjourney" /></a>
 #
 
 ## Our Partners

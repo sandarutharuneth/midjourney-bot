@@ -44,6 +44,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Like To Support?
+> [!NOTE]
 > We are actively looking for **Partnerships/Investors** to our Openjourney Project. If you are willing to be a part of this amazing journey, please contact us via the contact methods below.
 
 - Contact us via our official Mail: **support@openjourneybot.com**
@@ -57,6 +58,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 #
 
 ## Are You a Blogger?
+> [!NOTE]
 > We are more than happy for you to try and review our product on the internet. Contact our team for more information. We would be pleased to provide you further details about our product.
 
 - Mail us: **press@openjourneybot.com**
@@ -67,7 +69,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 <a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a><br>
 
 ## Installation
-⚠️ First Make sure you have `Node v18+` or higher version to run the bot ⚠️
+> [!WARNING]  
+> First Make sure you have `Node v18+` or higher version to run the bot
 
 `1` Clone the repository
 
@@ -109,6 +112,7 @@ On your discord server use slash command `/imagine` to get results
 Ex: `/imagine: anime landscape, genshin impact style`
 
 ## Common Erros
+> [!CAUTION]
 > IF you have a console error saying about any payment stuff, It means your free usage limit already have been ended and you'll either have to wait till next month get free uses or you can purchase a plan from Replicate to keep generating.
 > If you got the output as a black image, It usually means that you used inappropriate prompt to generate an image. Replicate does not allow such a behaviour and you might get banned from the platform. Use prompt wisely!
 
@@ -120,6 +124,7 @@ If you enjoy our work, please consider giving a start to the repository ⭐️
 You can use our code without any credits for your personal project
 
 ### Public Usage
+> [!NOTE]
 > You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@Dex-404](https://github.com/Dex-404)
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 

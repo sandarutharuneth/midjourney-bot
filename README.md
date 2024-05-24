@@ -51,7 +51,7 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 > We are actively looking for **Partnerships/Investors** to our Openjourney Project. If you are willing to be a part of this amazing journey, please contact us via the contact methods below.
 
 - Contact us via our official Mail: **press@openjourneybot.com**
-- Contact us via our Discord Server: <a href="https://discord.gg/cqSEc9FNrE">**Openjourneyr**</a>
+- Contact us via our Discord Server: <a href="https://discord.gg/cqSEc9FNrE">**Openjourney**</a>
 
 
 <h3 align="left">Donate Us:</h3>

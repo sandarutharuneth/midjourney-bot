@@ -28,15 +28,18 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 - Text to Image
 - Image to Text
 - Image to Image
-- Controlnet access
-- Swap faces easily
-- Remove Background
-- SDXL model access
-- Blurred image fix ( nafnet )
+- Logo generation
+- SDXL Model access
+- Face Swap ( Swap faces )
+- Face IP ( Headshot Generation )
+- Controlnet ( Turn your sketches into a image )
+- Image clarification ( Fix blurred images )
+- Remove Background with AI
+- Image Transformation / Replication
 - Face Restoration ( gfpgan )
-- Upscaling up to 4K  ( swinir )
-- Fully advance customizable image generations
-- Llama 2 70B language model access ( From META Inc )
+- Super Upscaling up to 8K
+- Fully advanced customizable image generations
+- Llama 2 & 3 language model access ( From META Inc )
 - Customizable canvas sizes ( Square, Portrait, Landscape )
 
 # [INVITE NOW ⭐️](https://openjourneybot.com)
@@ -47,8 +50,8 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 > [!NOTE]
 > We are actively looking for **Partnerships/Investors** to our Openjourney Project. If you are willing to be a part of this amazing journey, please contact us via the contact methods below.
 
-- Contact us via our official Mail: **support@openjourneybot.com**
-- Contact us via our Discord Server: <a href="https://discord.gg/cqSEc9FNrE">**Project Razer**</a>
+- Contact us via our official Mail: **press@openjourneybot.com**
+- Contact us via our Discord Server: <a href="https://discord.gg/cqSEc9FNrE">**Openjourneyr**</a>
 
 
 <h3 align="left">Donate Us:</h3>
@@ -111,10 +114,9 @@ node .
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine: anime landscape, genshin impact style`
 
-## Common Erros
+## Common Issues
 > [!CAUTION]
-> IF you have a console error saying about any payment stuff, It means your free usage limit already have been ended and you'll either have to wait till next month get free uses or you can purchase a plan from Replicate to keep generating.
-> If you got the output as a black image, It usually means that you used inappropriate prompt to generate an image. Replicate does not allow such a behaviour and you might get banned from the platform. Use prompt wisely!
+> **Replicate changed their platform on how free users can use their service since I made this bot. Now, after a few API requests, you have to add a valid payment method to continue using Replicate.**
 
 If you enjoy our work, please consider giving a start to the repository ⭐️
 #

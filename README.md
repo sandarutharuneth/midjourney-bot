@@ -1,10 +1,13 @@
 # Discord Midjourney Bot
 
-A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. Enjoy your AI Art freedom with us
+A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. Enjoy your AI Art freedom with us*
 
 #
 <a href="https://imgur.com/Bmf1J3P"><img src="https://i.imgur.com/Bmf1J3P.png" title="source: imgur.com" /></a>
 #
+
+> [!CAUTION]
+> **Replicate changed their platform on how free users can use their service since I made this bot. Now, after a few API requests, you have to add a valid payment method to continue using Replicate. You're always welcome to use our Openjourney bot for free as well.**
 
 ## Invite Openjourney Bot => <a href="https://openjourneybot.com" target="_blank">Click Here</a>
 > **Trusted and enjoyed by more than 9000+ servers**
@@ -12,13 +15,6 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 <a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/lN76M6r.png" title="openjourney" /></a>
 ## 2023 summary
 <a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/5PtkX21.png" title="openjourney" /></a>
-#
-
-## Our Partners
-> Here are our current partners on the Openjourney bot.
-
-- [**Prodia**](https://prodia.com) - All the image generating resources
-- [**Replicate**](https://replicate.com) - Upscaling and Face restoration algorithms
   
 #
 
@@ -29,9 +25,10 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 - Image to Text
 - Image to Image
 - Logo generation
-- SDXL Model access
+- Flux Molde access
+- SDXL & SD3 Model access
 - Face Swap ( Swap faces )
-- Face IP ( Headshot Generation )
+- Headshot generation
 - Controlnet ( Turn your sketches into a image )
 - Image clarification ( Fix blurred images )
 - Remove Background with AI
@@ -114,10 +111,6 @@ node .
 On your discord server use slash command `/imagine` to get results
 Ex: `/imagine: anime landscape, genshin impact style`
 
-## Common Issues
-> [!CAUTION]
-> **Replicate changed their platform on how free users can use their service since I made this bot. Now, after a few API requests, you have to add a valid payment method to continue using Replicate.**
-
 If you enjoy our work, please consider giving a start to the repository ⭐️
 #
 
@@ -130,4 +123,4 @@ You can use our code without any credits for your personal project
 > You must keep the credits and must mention this repository or links to code authors [@sandarutharuneth](https://github.com/sandarutharuneth), [@Dex-404](https://github.com/Dex-404)
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
-<h6 align="center">©️ Project Razer</h6>
+<h6 align="center">©️ Openjourney Neural Labs</h6>

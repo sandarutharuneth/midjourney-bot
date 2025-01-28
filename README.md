@@ -9,13 +9,14 @@ A opensource Discord Midjourney bot for all AI lovers. No more paywalls to AI. E
 > [!CAUTION]
 > **Replicate changed their platform on how free users can use their service since I made this bot. Now, after a few API requests, you have to add a valid payment method to continue using Replicate. You're always welcome to use our Openjourney bot for free as well.**
 
+> [!NOTE]
+> New Opensource version of our Discord bot coming soon equiped with our [**Openjourney API**](https://docs.opj.app/). Stay tuned and Follow [**Openjourney Neural Labs**](https://github.com/Openjourney-Neural-Labs) to get updates!
+
 ## Invite Openjourney Bot => <a href="https://openjourneybot.com" target="_blank">Click Here</a>
 > **Trusted and enjoyed by more than 10000+ servers**
 
 <a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/lN76M6r.png" title="openjourney" /></a>
-## 2023 summary
-<a href="https://openjourneybot.com" target="_blank"><img src="https://i.imgur.com/5PtkX21.png" title="openjourney" /></a>
-  
+
 #
 
 ## Cutting Edge Features
